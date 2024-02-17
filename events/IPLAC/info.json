@@ -1,29 +1,28 @@
 {
-    "id": "IPLAC",
-    "title": "IPL AUCTION",
-    "description": "What would you do if we said you could auction your way to assemble your dream team? Craft the most capable cricket team that is a sure sixer squad. Bid, build and dominate the race to boast a bombarding bonanza!",
-    "details": {
-        "type": "NON-TECHNICAL"
-    },
-    "rules": [
-        "Round 1:",
-        "Each team can have 3-6 members.",
-        "The first round is an IPL Quiz, to shortlist the registered participants.",
-        "The quiz will be based on IPL records.",
-        "The top 10 teams will be moving on to the auction round.",
-        "",
-        "",
-        "Round 2:",
-        "The selected 10 teams will be each asked to pick a cricket team from the lot.",
-        "Each team will be given 100 crores [Digital prop currency]",
-        "The value of the retained players of each selected cricket team will be reduced from the given 100 crores.",
-        "Each team should pick 15 - 23 players each.",
-        "Each team should prepare their 11's at the end of the auction with a maximum of 4 foreign players.",
-        "Winners will be selected based on players current form and record.",
-        "Judges' and organizers' decisions are final."
-    ],
-    "contacts": [
-        { "incharge": "Amrize", "phno": 8015929273 },
-        { "incharge": "Gayathrie", "phno": 9150472413 }
-    ]
+  "id": "IPLAC",
+  "title": "IPL AUCTION",
+  "description": "What would you do if we said you could auction your way to assemble your dream team? Craft the most capable cricket team that is a sure sixer squad. Bid, build and dominate the race to boast a bombarding bonanza!",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "rules": [
+    "Round 1:",
+    "Each team can have 3-6 members.",
+    "The first round is an IPL Quiz, to shortlist the registered participants.",
+    "The quiz will be based on IPL records.",
+    "The top 10 teams will be moving on to the auction round.",
+    "",
+    "Round 2:",
+    "The selected 10 teams will be each asked to pick a cricket team from the lot.",
+    "Each team will be given 100 crores [Digital prop currency]",
+    "The value of the retained players of each selected cricket team will be reduced from the given 100 crores.",
+    "Each team should pick 15 - 23 players each.",
+    "Each team should prepare their 11's at the end of the auction with a maximum of 4 foreign players.",
+    "Winners will be selected based on players current form and record.",
+    "Judges' and organizers' decisions are final."
+  ],
+  "contacts": [
+    { "incharge": "Amrize", "phno": 8015929273 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
 }

@@ -7,6 +7,7 @@
   },
   "rules": [],
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "rules": [],
   "contacts": [
     { "incharge": "Harshavarthan V ", "phno": 9791333360 },
     { "incharge": "B.Bhanu Sri", "phno": 7288999959 }
