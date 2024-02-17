@@ -1,10 +1,9 @@
 {
      "id": "CHNIG",
     "title": "CHOREO NIGHT",
-    "description": "The stage's heating up, so get your spirits ignited, as it's time for you to put on a costume of 
-confidence and flaunt your moves with your crew. Prepare to leave a mark on the dance floor!",
+    "description": "The stage's heating up, so get your spirits ignited, as it's time for you to put on a costume of confidence and flaunt your moves with your crew. Prepare to leave a mark on the dance floor!",
     "details":{
-        "type":"PROSHOW",
+        "type": "PROSHOW"
     },
     "registration": [
         "Entry fee is Rs 275 per head.",
@@ -14,34 +13,26 @@ confidence and flaunt your moves with your crew. Prepare to leave a mark on the 
         "This event comes under premium registration.",
         "Only a limited number of slots will be available",
         "Participants must be present inside the college premises before 2 pm."
-
     ],
     "event guidelines": [
-        {
-            "prelims": [
-            "The google form has to be filled and a video of the team's performance has to be 
-            uploaded through the same",
-            "Only a single non edited video should be submitted",
-            "Minimum duration of the video hould be 3 minutes",
-            "Last day for video submission is on or before 10th of February 2024"
-        ]
-            "finals": [
-            "The time limit for each performance is 7 minutes",
-            "Cross-over between team is permitted",
-            "Vulgarity and obsecenity during performance will not be tolerated",
-            "A minimum of 8 and maximum of 30 members, inclusive of backstage helpers will be 
-            allowed to step onto the stage",
-            "Any acts of vandalization to the stage or any other properties/devices will be viewed seriously.",
-            "Every participating team must be present inside the venue before the informed time.",
-            "Judges’ decisions will be final.
-         ]
-        
-        
+        "Prelims: ",
+        "The google form has to be filled and a video of the team's performance has to be uploaded through the same",
+        "Only a single non edited video should be submitted",
+        "Minimum duration of the video hould be 3 minutes",
+        "Last day for video submission is on or before 10th of February 2024",
+        "",
+        "",
+        "Finals:",
+        "The time limit for each performance is 7 minutes",
+        "Cross-over between team is permitted",
+        "Vulgarity and obsecenity during performance will not be tolerated",
+        "A minimum of 8 and maximum of 30 members, inclusive of backstage helpers will be allowed to step onto the stage",
+        "Any acts of vandalization to the stage or any other properties/devices will be viewed seriously.",
+        "Every participating team must be present inside the venue before the informed time.",
+        "Judges’ decisions will be final."
+    ],
 
-    }
-],
-
-"contacts": [
+    "contacts": [
         { "incharge": "Ganapathi A","phno":9344267027 },
         { "incharge": "Yuvaraj Kumar S","phno":6381389306 }
     ]
