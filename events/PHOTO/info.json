@@ -1,27 +1,27 @@
-
 {
-    "id": "PHOTO",
-    "title": "PHOTOGRAPHY-PICTURE PERFECT",
-    "description": "Are you passionate about photography? Come and join us for an exciting event that celebrates the art of capturing moments through the lens. Whether you're a seasoned photographer or just starting out, you're sure to find inspiration here.",
-    "details": {
-        "type": "ONLINE EVENT"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "Only one entry per person.",
-        "Photos must be submitted through google forms on or before 26th February, 2024",
-        "Photos should not contain any watermark.",
-        "DSLR and mobile phones are permitted.",
-        "Photos should not be taken from any online sources or plagiarised.",
-        "Selfies, casual photos and other irrelevant content will not be considered.",
-        "Basic editing including color correction, cropping is acceptable.",
-        "Judges' decision will be final. "
-    ],
-    "contacts": [
-        { "incharge": "Ruthresh", "phno": 9445933614 },
-        { "incharge": "Gopi", "phno": 9345869720 }
-    ]
+  "id": "PHOTO",
+  "title": "PHOTOGRAPHY-PICTURE PERFECT",
+  "description": "Are you passionate about photography? Come and join us for an exciting event that celebrates the art of capturing moments through the lens. Whether you're a seasoned photographer or just starting out, you're sure to find inspiration here.",
+  "details": {
+    "type": "ONLINE EVENT"
+  },
+  "glink": "https://forms.gle/ktWGg1hLqZmsR25h8",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "Only one entry per person.",
+    "Photos must be submitted through google forms on or before 26th February, 2024",
+    "Photos should not contain any watermark.",
+    "DSLR and mobile phones are permitted.",
+    "Photos should not be taken from any online sources or plagiarised.",
+    "Selfies, casual photos and other irrelevant content will not be considered.",
+    "Basic editing including color correction, cropping is acceptable.",
+    "Judges' decision will be final. "
+  ],
+  "contacts": [
+    { "incharge": "Ruthresh", "phno": 9445933614 },
+    { "incharge": "Gopi", "phno": 9345869720 }
+  ]
 }
