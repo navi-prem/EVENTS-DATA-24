@@ -5,6 +5,10 @@
     "details": {
         "type": "TECHNICAL"
     },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
     "rules": [
         "College ID is mandatory.",
         "A maximum of 4 members per team is allowed.",

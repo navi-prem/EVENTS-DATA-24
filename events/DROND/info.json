@@ -5,8 +5,11 @@
     "details": {
         "type": "TECHNICAL"
     },
-    "rules": [
+    "registration": [
         "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
         "Each team can have a maximum of 3 members.",
         "Only the Pilot and one accompanying member is allowed inside the fly area.",
         "Readymade drones are not permitted.",

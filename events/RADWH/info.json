@@ -5,7 +5,14 @@
     "details": {
         "type": "TECHNICAL"
     },
-    "rules": ["College ID is mandatory.", "A maximum of 4 members per team is allowed.", "Readymade bots will be eliminated."],
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "A maximum of 4 members per team is allowed.",
+        "Readymade bots will be eliminated."
+    ],
     "event guidelines": [
         "The permitted dimensions of the bot is 30cm*30cm*30cm.",
         "First round will be a tug of war and in the second round the Track including ramps and other obstacles. ",

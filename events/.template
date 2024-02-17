@@ -1,12 +1,15 @@
 {
-    "id": "TTRAC",
-    "title": "TRAIL TRACKS",
-    "description": "Where precision meets speed, steer your way to the end-line. Stay on track and you'll stay in the game. Wander off track and you'll have to walk out. Gather your courage and components! Are you up for this rip-roaring race where only the fast and furious finishes first?",
+    "id": "BRAMK",
+    "title": "BRAND MARKETING",
+    "description": "Paper presentation is a two-member competition where each team is required to provide a written representation of your idea in English, about a given theme and present it with a presentation (PowerPoint) in front of the judges.",
     "details": {
         "type": "TECHNICAL"
     },
-    "rules": [
+    "registration": [
         "College ID is mandatory.",
+        "The event comes under general registration.",
+    ],
+    "rules": [
         "A maximum of 4 members per team is allowed.",
         "Bots if found to be outsourced will be eliminated."
     ],
@@ -39,4 +42,3 @@
         { "incharge": "Gokul Kannan", "phno": 9941269128 }
     ]
 }
-

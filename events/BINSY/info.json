@@ -1,0 +1,39 @@
+{
+    "id": "BINSY",
+    "title": "BINARY SYMPHONY",
+    "description": "Coding duos! Two participants are paired and are given a problem to solve. The duo should take turns to code the solution. But the catch is, they can't be together at the same time. As one person codes, the other person is isolated. Swaps occur at regular intervals and the first duo to solve the problem wins.",
+    "details": {
+        "type": "TECHNICAL"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "A team must consist of two members.",
+        "Participants are requested to register in advance.",
+        "No mobiles or other gadgets should be used at the time of coding.",
+        "Event consists of two rounds."
+    ],
+    "first round": [
+        "Only one person is allowed to code in this round.",
+        "Other people will be given a quiz focusing on Python and C++.",
+        "Based on both scores, the top 30 teams will be selected.",
+        "Teams will be ranked and promoted to the next round based on their combined performance in both the coding and quiz.",
+        "Any kind of malpractice leads to disqualification.",
+        "Judges' decisions will be final."
+    ],
+    "Final Round": [
+        "This round takes place over the course of 1 hour.",
+        "Teams are swapped once during the event.",
+        "Each team member is allotted 25 minutes of individual coding time.",
+        "In the final 10 minutes, both members are allowed to collaborate and work together on the coding challenges.",
+        "The judge's decision will be final.",
+        "Any kind of malpractice leads to disqualification."
+    ],
+    "contacts": [
+        { "incharge": "Anton harrish A", "phno": 9566245632 },
+        { "incharge": "Ilamathi ", "phno": 7305441710 }
+    ]
+}
+
