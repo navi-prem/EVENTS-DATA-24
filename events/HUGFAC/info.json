@@ -1,0 +1,13 @@
+{
+  "id": "HUGFAC",
+  "title": "HUGGING FACES (AI-MODEL)",
+  "description": "This comprehensive workshop is designed to equip participants with practical skills in AI and Data Science using essential libraries. Attendees will learn to harness pandas, numpy, and Matplotlib for data analysis and visualization, while exploring Hugging Face's AI models. Open-source insights will be shared to foster a collaborative learning environment.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "Gokul Kannan P", "phno": 9941269128 },
+    { "incharge": "T Jeevanthika", "phno": 9629666731 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "SCRIPT",
+  "title": "SCRIPT WRITING",
+  "description": "Embark on a cinematic odyssey as we invite you to the ScriptWriting workshop, an unparalleled celebration of storytelling and creative expression. This event is tailored for aspiring and seasoned scriptwriters alike, providing a platform to delve into the intricacies of scriptwriting, from crafting compelling narratives to mastering the art of character development. Participate in hands-on sessions where you'll have the opportunity to breathe life into your ideas. From brainstorming plot twists to refining dialogue, our expert facilitators will guide you through the nuances of script development. Collaborate with fellow writers, exchange ideas, and leave with a toolkit of techniques to transform your concepts into captivating scripts that resonate with audiences.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "Harshavarthan V", "phno": 9791333360 },
+    { "incharge": "T Jeevanthika", "phno": 9629666731 }
+  ]
+}

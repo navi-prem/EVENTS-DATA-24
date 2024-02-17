@@ -1,0 +1,13 @@
+{
+  "id": "CINEPHY",
+  "title": "CINEMATOGRAPHY",
+  "description": "Whether you are an ardent admirer of PC Sreeram or find yourself in awe of KV Anand's shots, this workshop is tailored to help you hone your abilities and delve deeper into the creative aspects of visual storytelling. Indulge in the art of cinematography and expand your skill set with our hands-on workshop, while working alongside industry professionals and utilizing top-of-the-line equipment. This program caters to both beginners and intermediate-level cinematographers, providing a comprehensive and inspiring experience that will elevate your craft to new heights.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "A.Merwin Blessy", "phno": 7603805669 },
+    { "incharge": "Gokul Kannan P", "phno": 9941269128 }
+  ]
+}

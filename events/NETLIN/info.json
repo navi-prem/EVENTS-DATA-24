@@ -1,0 +1,13 @@
+{
+  "id": "NETLIN",
+  "title": "NETWORKING WITH LINUX",
+  "description": "This Workshop offers participants a thorough understanding of Linux operating systems, basic command-line usage, networking essentials encompassing TCP/IP, subnetting, and routing, as well as practical networking commands. Participants engage with live booting, virtualization using VMware, and gain exposure to Wireshark for network traffic analysis. The workshop also introduces Nmap for network scanning. Overall, attendees emerge equipped with fundamental knowledge of Linux, networking concepts, and essential cybersecurity tools, priming them for further exploration in these domains.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "Gokul Kannan P", "phno": 9941269128 },
+    { "incharge": "Jesiha Dhas Y", "phno": 7092163958 }
+  ]
+}
