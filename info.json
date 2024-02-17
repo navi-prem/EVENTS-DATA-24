@@ -4,7 +4,7 @@
   "DJNIG": {"name":"DJ NIGHT","type":"PRO SHOW"},
   "CIDA": {"name":"CIDA - CIT ICONS OF DIGITAL AWARDS","type":"PRO SHOW"},
   "RADWH": {"name":"RADIO WHEELS","type":"TECHNICAL"},
-  "DRONED": {"name":"DRONE DASH","type":"TECHNICAL"},
+  "DROND": {"name":"DRONE DASH","type":"TECHNICAL"},
   "TTRAC": {"name":"TRAIL TRACKS","type":"TECHNICAL"},
   "TECHQ": {"name":"TECH QUEST","type":"TECHNICAL"},
   "H2ORK": {"name":"H2O ROCKETRY","type":"TECHNICAL"},
@@ -18,7 +18,7 @@
   "FSWEB": {"name":"FULL STACK WEB DEVELOPMENT","type":"WORKSHOP"},
   "IOTES": {"name":"IOT AND EMBEDDED SYSTEMS","type":"WORKSHOP"},
   "CSBS": {"name":"CYBERSECURITY","type":"WORKSHOP"},
-  "ENTRE": {"name":"ENTREPRENUERSHIP","type":"WORKSHOP"},
+  "ENTPRE": {"name":"ENTREPRENUERSHIP","type":"WORKSHOP"},
   "OSSO": {"name":"AN OPEN SOURCE ODYSSEY","type":"WORKSHOP"},
   "NETLIN": {"name":"NETWORKING WITH LINUX","type":"WORKSHOP"},
   "HUGFAC": {"name":"HUGGING FACES","type":"WORKSHOP"},
@@ -60,5 +60,5 @@
   "BGMIA": {"name":"","type":"NON-TECHNICAL"},
   "PHOTO": {"name":"","type":"ONLINE EVENT"},
   "MEMEC": {"name":"","type":"ONLINE EVENT"},
-  "POETRY": {"name":"","type":"ONLINE EVENT"}
+  "POETR": {"name":"","type":"ONLINE EVENT"}
 }
