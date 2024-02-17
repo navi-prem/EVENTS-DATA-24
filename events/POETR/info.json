@@ -1,0 +1,26 @@
+{
+    "id": "POETR",
+    "title": "POETRY",
+    "description": " Verse on paper, heart's emotion,\n Rhymes and rhythm, flowing motion,\n With words and thoughts, a sweet devotion,\n A poem, a story, pure devotion.",
+    "details": {
+        "type": "ONLINE EVENT"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under free registration."
+    ],
+    "rules": [
+        "The poems should consist of a title.",
+        "The poems must not exceed 40 lines in length excluding the title.",
+        "Plagiarism is not allowed.",
+        "Poetry can be written in any poetic style and on any subject.",
+        "A poem in its entirety must be an original work by the person entering the event.",
+        "Any entry containing clich‚, overused phrases will not be accepted.",
+        "Poems containing language that is vulgar, offensive, or wholly inappropriate will not be accepted.",
+        "Judges' decision will be final."
+    ],
+    "contacts": [
+        { "incharge": "Ruthresh", "phno": 9445933614 },
+        { "incharge": "Yamini", "phno": 7539975162 }
+    ]
+}
