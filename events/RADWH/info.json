@@ -1,38 +1,41 @@
 {
-    "id": "RADWH",
-    "title": "RADIO WHEELS",
-    "description": "Competition is what makes us work harder. Crash tests, pit stops and obstacle courses. Race to the finish line while revving your engines. Creativity and strategy packs a punch in this RC race!",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "A maximum of 4 members per team is allowed.",
-        "Readymade bots will be eliminated."
-    ],
-    "event guidelines": [
-        "The permitted dimensions of the bot is 30cm*30cm*30cm.",
-        "First round will be a tug of war and in the second round the Track including ramps and other obstacles. ",
-        "The bot should be operated on a battery source.",
-        "Both wireless and wired configuration is permitted.",
-        "Extra batteries and other accessories will not be provided at the venue.",
-        "Any Physical damage of the bot will lead to disqualification.",
-        "Second round will be evaluated on a time basis.",
-        "Only 2 members from the team will be allowed to step on the track.",
-        "Judges’ decisions will be final."
-    ],
-    "technical specification": [
-        "Dimensions of RC cars should not exceed 30x30x30cms.",
-        "Brushless DC motors are not allowed.",
-        "There should be a minimum ground clearance of 5cm.",
-        "Battery Rating : 3.7V (1800-3500 mAH)",
-        "Motor Rating: 3-12V "
-    ],
-    "contacts": [
-        { "incharge": "Saahir M", "phno": 7448432553 },
-        { "incharge": "Prawin", "phno": 9342910361 }
-    ]
+  "id": "RADWH",
+  "title": "RADIO WHEELS",
+  "description": "Competition is what makes us work harder. Crash tests, pit stops and obstacle courses. Race to the finish line while revving your engines. Creativity and strategy packs a punch in this RC race!",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "day": "DAY3",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "A maximum of 4 members per team is allowed.",
+    "Readymade bots will be eliminated."
+  ],
+  "event guidelines": [
+    "The permitted dimensions of the bot is 30cm*30cm*30cm.",
+    "First round will be a tug of war and in the second round the Track including ramps and other obstacles. ",
+    "The bot should be operated on a battery source.",
+    "Both wireless and wired configuration is permitted.",
+    "Extra batteries and other accessories will not be provided at the venue.",
+    "Any Physical damage of the bot will lead to disqualification.",
+    "Second round will be evaluated on a time basis.",
+    "Only 2 members from the team will be allowed to step on the track.",
+    "Judges’ decisions will be final."
+  ],
+  "technical specification": [
+    "Dimensions of RC cars should not exceed 30x30x30cms.",
+    "Brushless DC motors are not allowed.",
+    "There should be a minimum ground clearance of 5cm.",
+    "Battery Rating : 3.7V (1800-3500 mAH)",
+    "Motor Rating: 3-12V "
+  ],
+  "contacts": [
+    { "incharge": "Saahir M", "phno": 7448432553 },
+    { "incharge": "Prawin", "phno": 9342910361 }
+  ]
 }

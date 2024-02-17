@@ -3,8 +3,11 @@
   "title": "DEBATE - IT’S DEBATABLE",
   "description": "Raise your voice and defend your stance. Rhetoric at its finest, where words become weapons. Swoop the field and make your voice heard.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
   },
+  "day": "DAY3",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

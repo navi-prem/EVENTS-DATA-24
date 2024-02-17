@@ -1,18 +1,21 @@
 {
-    "id": "DESON",
-    "title": "DESIGNER'S ONBOARD",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "rules": [
-        "It is an individual event",
-        "Participants are instructed to use only figma for designing.",
-        "Plugins can be used.",
-        "Readymade templates should not be used strictly.",
-        "The judge's decision will be final."
-    ],
-    "contacts": [
-        { "incharge": "B.Hazeera", "phno": 9344390080 },
-        { "incharge": "Alamelu Mangai", "phno": 9087656215 }
-    ]
+  "id": "DESON",
+  "title": "DESIGNER'S ONBOARD",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "day": "DAY3",
+  "category": "GEN",
+  "rules": [
+    "It is an individual event",
+    "Participants are instructed to use only figma for designing.",
+    "Plugins can be used.",
+    "Readymade templates should not be used strictly.",
+    "The judge's decision will be final."
+  ],
+  "contacts": [
+    { "incharge": "B.Hazeera", "phno": 9344390080 },
+    { "incharge": "Alamelu Mangai", "phno": 9087656215 }
+  ]
 }

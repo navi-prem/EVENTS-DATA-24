@@ -1,27 +1,30 @@
 {
-    "id": "PAPRE",
-    "title": "PAPER PRESENTATION",
-    "description": "Paper presentation is a two-member competition where each team is required to provide a written representation of your idea in English, about a given theme and present it with a presentation (PowerPoint) in front of the judges.",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "A maximum of two members are permitted per team.",
-        "Participants are requested to register in advance.",
-        "Abstract should not exceed one page and the presentation should not exceed 20 slides.",
-        "Participants are allotted a maximum duration of 5 minutes per team to complete the paper presentation.",
-        "Participants are requested to bring along 2 hard copies of the paper to be submitted, on the day of  the event.",
-        "A team can have students from different colleges.",
-        "The abstract mail should contain the abstract references,  your email id and mobile number.",
-        "Any kind of plagiarism leads to immediate disqualification.",
-        "Judges' decisions will be final."
-    ],
-    "contacts": [
-        { "incharge": "S.Swetha", "phno": 8825468770 },
-        { "incharge": "Gopika ", "phno": 8148322265 }
-    ]
+  "id": "PAPRE",
+  "title": "PAPER PRESENTATION",
+  "description": "Paper presentation is a two-member competition where each team is required to provide a written representation of your idea in English, about a given theme and present it with a presentation (PowerPoint) in front of the judges.",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "day": "DAY2",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "A maximum of two members are permitted per team.",
+    "Participants are requested to register in advance.",
+    "Abstract should not exceed one page and the presentation should not exceed 20 slides.",
+    "Participants are allotted a maximum duration of 5 minutes per team to complete the paper presentation.",
+    "Participants are requested to bring along 2 hard copies of the paper to be submitted, on the day of  the event.",
+    "A team can have students from different colleges.",
+    "The abstract mail should contain the abstract references,  your email id and mobile number.",
+    "Any kind of plagiarism leads to immediate disqualification.",
+    "Judges' decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "S.Swetha", "phno": 8825468770 },
+    { "incharge": "Gopika ", "phno": 8148322265 }
+  ]
 }

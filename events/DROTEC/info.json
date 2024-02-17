@@ -3,9 +3,11 @@
   "title": "DRONE TECHNOLOGY",
   "description": "Have you ever thought about building and controlling your own miniature aircraft? If so, this drone technology workshop is perfect for you! You'll learn the basic science behind drones and design a fully functional drone that you can fly one day. Drones have a wide range of potential applications, from package delivery to the defense industry. This interactive event allows participants to engage and gain practical knowledge about drone technology.",
   "details": {
-    "type": "WORKSHOP"
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
   },
-  "rules": [],
+  "day": "DAY1",
+  "category": "WK",
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
   "rules": [],
   "contacts": [

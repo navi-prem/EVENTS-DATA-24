@@ -3,8 +3,11 @@
   "title": "SHIPWRECK - A PIRATE’S DILEMMA",
   "description": "It is better to meet danger than to wait for it. He who is on a lee shore and foresees a hurricane stands out to sea and encounters a storm to avoid a shipwreck.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
   },
+  "day": "DAY3",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

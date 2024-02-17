@@ -3,8 +3,11 @@
   "title": "SOLO SINGING - ONE VOICE MAGIC",
   "description": "Music is felt rather than heard. With your beguiling voice, you can touch people's hearts and enlighten their souls. After all, music is much more than just a tune.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

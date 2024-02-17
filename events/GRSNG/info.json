@@ -3,8 +3,11 @@
   "title": "GROUP SINGING - ACAPELLA",
   "description": "Music is a part of our everyday lives. From the hammering of our hearts to the shrieking of the cars, it’s within us and around us. Amidst the many catastrophic sounds, will your group’s crooning be crowned the best?",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "theme": "OPEN THEME",
   "registration": [
     "College ID is mandatory.",

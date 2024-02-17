@@ -3,8 +3,11 @@
   "title": "DUAL DANCE - DYNAMIC DUO",
   "description": "step up, show off, and electrify the stage with double the moves, double the grace and double the excitement.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "college id is mandatory.",
     "This event comes under general registration.",

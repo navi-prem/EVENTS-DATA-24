@@ -3,8 +3,11 @@
   "title": "BINARY SYMPHONY",
   "description": "Coding duos! Two participants are paired and are given a problem to solve. The duo should take turns to code the solution. But the catch is, they can't be together at the same time. As one person codes, the other person is isolated. Swaps occur at regular intervals and the first duo to solve the problem wins.",
   "details": {
-    "type": "TECHNICAL"
+    "type": "TECHNICAL",
+    "date": "02/03/2024"
   },
+  "day": "DAY3",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "The event comes under general registration."

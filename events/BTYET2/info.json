@@ -1,10 +1,13 @@
 {
-  "id": "BTYET",
+  "id": "BTYET2",
   "title": "BEHIND THE YELLOW TAPES",
   "description": "Do you have what it takes to solve the case and bring justice to the departed? Test your wits to see if your detective skills are as good as Rust Cohle's. Dive into the case files and piece together the clues to uncover the killer. Are you up for the challenge?",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration.",

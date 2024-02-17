@@ -1,0 +1,29 @@
+{
+  "id": "BTYET1",
+  "title": "BEHIND THE YELLOW TAPES",
+  "description": "Do you have what it takes to solve the case and bring justice to the departed? Test your wits to see if your detective skills are as good as Rust Cohle's. Dive into the case files and piece together the clues to uncover the killer. Are you up for the challenge?",
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "day": "DAY1",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration.",
+    "The team-head should register for the event, on behalf of the team."
+  ],
+  "rules": [
+    "Time allotted for each team is 10 min.",
+    "Each team must consist of 3 to 4 members.",
+    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
+    "A video of suspects’ statements will be played to the teams.",
+    "Team must discuss the case within the specified time.",
+    "Gadgets will not be allowed within the premises.",
+    "For each hint asked by the team, accountable points will be deducted as per jury team."
+  ],
+  "contacts": [
+    { "incharge": "Harivignesh", "phno": 6382751821 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

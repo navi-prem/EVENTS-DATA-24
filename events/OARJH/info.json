@@ -3,8 +3,11 @@
   "title": "ON-AIR - RJ HUNT",
   "description": "Radio affects most intimately, person to person, offering a world of unspoken communication between the writer- speaker and listener. Step into the spotlight, grab the microphone, take a moment, and be a part of the legacy.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

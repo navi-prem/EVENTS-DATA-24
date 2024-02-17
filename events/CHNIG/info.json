@@ -3,9 +3,11 @@
   "title": "CHOREO NIGHT",
   "description": "The stage's heating up, so get your spirits ignited, as it's time for you to put on a costume of confidence and flaunt your moves with your crew. Prepare to leave a mark on the dance floor!",
   "details": {
-    "type": "PRO SHOW"
+    "type": "PRO SHOW",
+    "date": "29/02/2024"
   },
-  "rules": [],
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "Entry fee is Rs 275 per head.",
     "Bonafide of all the team members should be submitted through google forms.",
@@ -15,6 +17,7 @@
     "Only a limited number of slots will be available",
     "Participants must be present inside the college premises before 2 pm."
   ],
+  "rules": [],
   "event guidelines": [
     "Prelims: ",
     "The google form has to be filled and a video of the team's performance has to be uploaded through the same",

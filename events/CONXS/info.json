@@ -1,22 +1,25 @@
 {
-    "id": "CONXS",
-    "title": "CONNECTIONS",
-    "description": "Lucid Circuits is a team event of two members where the circuit output will be given on spot and the participants are asked to design the circuit on any kind of softwares and present the output of stimulation.",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "Maximum of 2 members are allowed in a team.",
-        "Simple Circuits Designs will be given. ",
-        "Should try to complete the stimulation for the given circuit within the given time using simulation software.",
-        "Judge's decision will be final."
-    ],
-    "contacts": [
-        { "incharge": "Rithviknath", "phno": 8328508592 },
-        { "incharge": "Ritesh Balaji S", "phno": 9342131675 }
-    ]
+  "id": "CONXS",
+  "title": "CONNECTIONS",
+  "description": "Lucid Circuits is a team event of two members where the circuit output will be given on spot and the participants are asked to design the circuit on any kind of softwares and present the output of stimulation.",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "day": "DAY2",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "Maximum of 2 members are allowed in a team.",
+    "Simple Circuits Designs will be given. ",
+    "Should try to complete the stimulation for the given circuit within the given time using simulation software.",
+    "Judge's decision will be final."
+  ],
+  "contacts": [
+    { "incharge": "Rithviknath", "phno": 8328508592 },
+    { "incharge": "Ritesh Balaji S", "phno": 9342131675 }
+  ]
 }

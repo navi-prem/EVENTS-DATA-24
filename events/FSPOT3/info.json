@@ -1,0 +1,37 @@
+{
+  "id": "FSPOT3",
+  "title": "FRAME-SPOT",
+  "description": "Analyze the given frames and arrive at the bigger picture. Discover the hidden message in each picture, make the connections, and learn what the final frame whispers to you.",
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "day": "DAY3",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Finals)",
+    "This is an individual event and team participation is not allowed.",
+    "Participants must answer within the given time frame.",
+    "Questions are exclusively from movies.",
+    "The Judges’ decisions will be final.",
+    "",
+    "Round 1:",
+    "Individual participants only.",
+    "Participants must answer within the time frame.",
+    "Questions are exclusively from kollywood movies.",
+    "The judges’ decision is final.",
+    "",
+    "Round 2:",
+    "Difficulty level will be increased for the round ",
+    "Malpractice should be avoided.",
+    "The judges’ decision is final."
+  ],
+  "contacts": [
+    { "incharge": "Vedhaashriyaa", "phno": 7904722562 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

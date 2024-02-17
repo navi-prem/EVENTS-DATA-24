@@ -3,8 +3,11 @@
   "title": "CYPHER",
   "description": "Calling out all high-octane hip-hop dancers! Once you step in, there's no going back. Diss your opponent, not with your words but with your dance. Steal the spotlight with your swings and rap steps.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

@@ -3,9 +3,11 @@
   "title": "IOT AND EMBEDDED SYSTEMS",
   "description": "In this workshop, you will learn about designing and applying IoT systems. You will work on real-world projects and gain hands-on experience in industries like healthcare, agriculture, and transportation. By the end of the workshop, you will have gained valuable knowledge and skills that can be applied to your own projects and career development. Join us to explore the world of IoT and its endless possibilities!",
   "details": {
-    "type": "WORKSHOP"
+    "type": "WORKSHOP",
+    "date": "01/03/2024"
   },
-  "rules": [],
+  "day": "DAY2",
+  "category": "WK",
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
   "rules": [],
   "contacts": [

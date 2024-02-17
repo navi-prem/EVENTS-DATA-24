@@ -3,8 +3,11 @@
   "title": "WORLD OF WEEBS (ANIME QUIZ)",
   "description": "Prove your anime prowess in this epic anime quiz! From Naruto's hidden jutsus to the heroic quirks of My Hero Academia, cover everything you need to prove yourself as a true anime fan. Gather your nakama, channel your inner anime protagonist, and let's see who will emerge as the victor in the World of Weebs! Dattebayo!",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "theme": "ANIME",
   "registration": [
     "College ID is mandatory.",

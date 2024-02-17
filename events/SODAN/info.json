@@ -3,8 +3,11 @@
   "title": "SOLO DANCE - DANCE TILL DAWN",
   "description": "Do you have what it takes to put on a one-man show? On the dance floor, you are in control of the rhythm. Set yourself loose and let the music move you. Swing and sway to steal everyone's hearts!.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."

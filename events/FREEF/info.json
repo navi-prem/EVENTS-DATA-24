@@ -3,8 +3,11 @@
   "title": "FREE FIRE",
   "description": "Is gaming your domain? Amateur or professional gaming sees no discrimination, only skills, strategy and rules. So gear up for the battle, prepare and clash in the ultimate showdown.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration.",

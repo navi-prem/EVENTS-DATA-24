@@ -1,29 +1,32 @@
 {
-    "id": "DROND",
-    "title": "DRONE DASH",
-    "description": "Are you looking for an exhilarating challenge? Then come join us and race your drone through an insane first-person course! Compete with other daring pilots and soak in the thrilling atmosphere as you fight for the top spot. Don't miss out, it's an enthralling event that does not come by often.",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "Each team can have a maximum of 3 members.",
-        "Only the Pilot and one accompanying member is allowed inside the fly area.",
-        "Readymade drones are not permitted.",
-        "Judges' decisions will be final."
-    ],
-    "event guidelines": [
-        "Maximum frame size of the drone must be 270mm.",
-        "Battery capacity must not exceed 14.8v and 3,500mAh.",
-        "Carbon fiber and metal propellers are prohibited. ",
-        "Fail safe switch must be enabled.",
-        "The College will not take responsibility for any damage of the drone."
-    ],
-    "contacts": [
-        { "incharge": "Anton harrish A", "phno": 9566245632 },
-        { "incharge": "Ilamathi", "phno": 7305441710 }
-    ]
+  "id": "DROND",
+  "title": "DRONE DASH",
+  "description": "Are you looking for an exhilarating challenge? Then come join us and race your drone through an insane first-person course! Compete with other daring pilots and soak in the thrilling atmosphere as you fight for the top spot. Don't miss out, it's an enthralling event that does not come by often.",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "day": "DAY1",
+  "category": "WK",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "Each team can have a maximum of 3 members.",
+    "Only the Pilot and one accompanying member is allowed inside the fly area.",
+    "Readymade drones are not permitted.",
+    "Judges' decisions will be final."
+  ],
+  "event guidelines": [
+    "Maximum frame size of the drone must be 270mm.",
+    "Battery capacity must not exceed 14.8v and 3,500mAh.",
+    "Carbon fiber and metal propellers are prohibited. ",
+    "Fail safe switch must be enabled.",
+    "The College will not take responsibility for any damage of the drone."
+  ],
+  "contacts": [
+    { "incharge": "Anton harrish A", "phno": 9566245632 },
+    { "incharge": "Ilamathi", "phno": 7305441710 }
+  ]
 }

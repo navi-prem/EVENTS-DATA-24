@@ -1,0 +1,27 @@
+{
+  "id": "TRENT",
+  "title": "TREASURE HUNT",
+  "description": "No thief, however skillful, can rob one of knowledge, and that is why knowledge is the best and desirable treasure to acquire. Treasure Hunt makes better stories when there's treasure at the end.",
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "day": "DAY1",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "Each team must consist of 2-4 members.",
+    "Participating teams should collect the clues to capture the flag.",
+    "Clues should be collected in the correct number order.",
+    "Clues will be placed only inside the college premises.",
+    "Participants must not damage college property.",
+    "The first team to capture the flag wins."
+  ],
+  "contacts": [
+    { "incharge": "Swetha", "phno": 9952084880 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

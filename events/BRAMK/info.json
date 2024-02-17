@@ -1,21 +1,24 @@
 {
-    "id": "BRAMK",
-    "title": "BRAND MARKETING",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "It is an  event and team participation is not allowed.",
-        "Topics will be given on the spot.",
-        "Participants should make the analysis of the profit and loss of the product and estimate the real prices of the product and perform the marketing.",
-        "Judge's decision will be final."
-    ],
-   "contacts": [
-        { "incharge": "Ilamathi", "phno": 7305441710 },
-        { "incharge": "Gopika", "phno": 8148322265 }
-    ]
+  "id": "BRAMK",
+  "title": "BRAND MARKETING",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "day": "DAY1",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "It is an  event and team participation is not allowed.",
+    "Topics will be given on the spot.",
+    "Participants should make the analysis of the profit and loss of the product and estimate the real prices of the product and perform the marketing.",
+    "Judge's decision will be final."
+  ],
+  "contacts": [
+    { "incharge": "Ilamathi", "phno": 7305441710 },
+    { "incharge": "Gopika", "phno": 8148322265 }
+  ]
 }

@@ -5,7 +5,8 @@
   "details": {
     "type": "WORKSHOP"
   },
-  "rules": [],
+  "day": "DAY3",
+  "category": "WK",
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
   "rules": [],
   "contacts": [

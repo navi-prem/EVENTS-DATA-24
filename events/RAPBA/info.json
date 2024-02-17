@@ -1,28 +1,30 @@
-
 {
-    "id": "RAPBA",
-    "title": "RAP BATTLE - RAP-A-THON",
-    "description": "Just get on the mic and spit those rhymes and better go capture this moment and hope it doesn't pass. Lose yourself in the music, the moment, You own it, you better never let it go. You only get one shot, do not miss your chance to blow. Keep spilling these raps long till you collapse. Wake the real slim shady in you.",
-    "details": {
-        "type": "NON-TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "The event has 2 rounds- prelims and finals.",
-        "Duration for Prelims: A maximum of 2 minutes.",
-        "Duration for Finals: A maximum of 5 minutes.",
-        "Individual entries as well as team entries are allowed.",
-        "Participants must have with them the rhythm to which they will be rapping.",
-        "The raps can be multilingual.",
-        "The artist must not include any explicit words in his/her lyrics. ",
-        "Usage of offensive language, naming a particular person or a defined group of people (religions, castes etc.), usage of any socially objectionable language is strictly prohibited.",
-        "The Judges' decisions will be final."
-    ],
-    "contacts": [
-        { "incharge": "Amrize", "phno": 8015929273 },
-        { "incharge": "Gayathrie", "phno": 9150472413 }
-    ]
+  "id": "RAPBA",
+  "title": "RAP BATTLE - RAP-A-THON",
+  "description": "Just get on the mic and spit those rhymes and better go capture this moment and hope it doesn't pass. Lose yourself in the music, the moment, You own it, you better never let it go. You only get one shot, do not miss your chance to blow. Keep spilling these raps long till you collapse. Wake the real slim shady in you.",
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "day": "DAY3",
+  "category": "GEN",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "The event has 2 rounds- prelims and finals.",
+    "Duration for Prelims: A maximum of 2 minutes.",
+    "Duration for Finals: A maximum of 5 minutes.",
+    "Individual entries as well as team entries are allowed.",
+    "Participants must have with them the rhythm to which they will be rapping.",
+    "The raps can be multilingual.",
+    "The artist must not include any explicit words in his/her lyrics. ",
+    "Usage of offensive language, naming a particular person or a defined group of people (religions, castes etc.), usage of any socially objectionable language is strictly prohibited.",
+    "The Judges' decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Amrize", "phno": 8015929273 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
 }

@@ -3,10 +3,13 @@
   "title": "FULL STACK WEB DEVELOPMENT",
   "description": "A website and a server designed by a single person, is that even possible? Well, if you know about full-stack development, it is! In this workshop learn how to program a website and also gain knowledge on creating exclusive databases and servers for the website that you designed. The workshop will also focus on best practices for software development, such as version control, testing, and debugging. By the end of the workshop, participants will have a solid understanding of full-stack development and be able to build their own web applications from scratch.",
   "details": {
-    "type": "WORKSHOP"
+    "type": "WORKSHOP",
+    "date": "02/03/2024"
   },
-  "rules": [],
+  "day": "DAY3",
+  "category": "WK",
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "rules": [],
   "contacts": [
     { "incharge": "Vaishnavi M", "phno": 9585752915 },
     { "incharge": "R.Monikasree", "phno": 8508895597 }

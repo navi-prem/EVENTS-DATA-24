@@ -3,8 +3,11 @@
   "title": "TK TV",
   "description": "Do you have a dream of appearing on TV? Ever wished you could be the star of your own programme? Are your acting and marketing abilities up to par? You have a platform to fulfill your fantasies and steal the show, thanks to TK TV!",
   "details": {
-    "type": "TECHNICAL"
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "The event comes under general registration."

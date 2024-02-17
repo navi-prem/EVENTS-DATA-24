@@ -1,10 +1,13 @@
 {
-  "id": "FZONE",
+  "id": "FZONE2",
   "title": "FUN ZONE",
   "description": "Buckle up for an exhilarating escapade at our much-anticipated FunZone event – an extraordinary carnival of boundless joy, unabated excitement, and a relentless onslaught of non-stop entertainment! This is not just another run-of-the-mill gathering; it's a flamboyant celebration meticulously crafted to awaken the dormant inner child in every attendee.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
   },
+  "day": "DAY2",
+  "category": "GEN",
   "rules": [],
   "contacts": [{ "incharge": "Gayathrie", "phno": 9150472413 }]
 }

@@ -1,30 +1,31 @@
 {
-    "id": "H2ORK",
-    "title": "H2O ROCKETRY",
-    "description": "It all looked so easy when you did it with paper-where valves never froze, gyros never drifted and rocked motors did not blow up in your face.Build your own rocket and bring it on the floor that blast the sky.",
-    "details": {
-        "type": "TECHNICAL"
-    },
-    "registration": [
-        "College ID is mandatory.",
-        "The event comes under general registration."
-    ],
-    "rules": [
-        "The team should consist of only 3 members.",
-        "Bottle for rockets must be brought by the participants.",
-        "All design materials and compressors will be provided by our team.",
-        "Rockets should be made of common water bottles.",
-        "Participants must present their rocket to organizers before their launch.",
-        "The pressure of water must be around 90 psi.",
-        "Judges' decisions will be final."
-    ],
-    "event guidelines": [
-        "Participants must follow all the safety measures.",
-        "The College will not take responsibility for any damage."
-    ],
-    "contacts": [
-        { "incharge": "Santhosh I", "phno": 6374071150 },
-        { "incharge": "Harini T", "phno": 9344180609 }
-    ]
+  "id": "H2ORK",
+  "title": "H2O ROCKETRY",
+  "description": "It all looked so easy when you did it with paper-where valves never froze, gyros never drifted and rocked motors did not blow up in your face.Build your own rocket and bring it on the floor that blast the sky.",
+  "details": {
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "day": "DAY1",
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "The team should consist of only 3 members.",
+    "Bottle for rockets must be brought by the participants.",
+    "All design materials and compressors will be provided by our team.",
+    "Rockets should be made of common water bottles.",
+    "Participants must present their rocket to organizers before their launch.",
+    "The pressure of water must be around 90 psi.",
+    "Judges' decisions will be final."
+  ],
+  "event guidelines": [
+    "Participants must follow all the safety measures.",
+    "The College will not take responsibility for any damage."
+  ],
+  "contacts": [
+    { "incharge": "Santhosh I", "phno": 6374071150 },
+    { "incharge": "Harini T", "phno": 9344180609 }
+  ]
 }
-

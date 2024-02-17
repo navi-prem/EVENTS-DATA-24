@@ -3,8 +3,11 @@
   "title": "IPL AUCTION",
   "description": "What would you do if we said you could auction your way to assemble your dream team? Craft the most capable cricket team that is a sure sixer squad. Bid, build and dominate the race to boast a bombarding bonanza!",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "rules": [
     "Round 1:",
     "Each team can have 3-6 members.",

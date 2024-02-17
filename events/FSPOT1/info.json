@@ -1,10 +1,13 @@
 {
-  "id": "FSPOT",
+  "id": "FSPOT1",
   "title": "FRAME-SPOT",
   "description": "Analyze the given frames and arrive at the bigger picture. Discover the hidden message in each picture, make the connections, and learn what the final frame whispers to you.",
   "details": {
-    "type": "NON-TECHNICAL"
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   },
+  "day": "DAY1",
+  "category": "GEN",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration."
