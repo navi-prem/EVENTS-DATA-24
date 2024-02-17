@@ -1,10 +1,11 @@
 {
-     "id": "CHNIG",
+    "id": "CHNIG",
     "title": "CHOREO NIGHT",
     "description": "The stage's heating up, so get your spirits ignited, as it's time for you to put on a costume of confidence and flaunt your moves with your crew. Prepare to leave a mark on the dance floor!",
     "details":{
-        "type": "PROSHOW"
+        "type": "PRO SHOW"
     },
+    "rules": [],
     "registration": [
         "Entry fee is Rs 275 per head.",
         "Bonafide of all the team members should be submitted through google forms.",

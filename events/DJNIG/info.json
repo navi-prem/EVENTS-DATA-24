@@ -3,12 +3,13 @@
     "title": "DJ NIGHT",
     "description": "Adrenaline rushing, crowd vibing, beams flashing and beats burning. Join the groovy DJ as he plunges you into a night of eternal bliss! The most awaited night where lights go low and spirits get high! Let the ground rumble with sounds that soar to the stars!",
     "details": {
-        "type": "PROSHOW"
+        "type": "PRO SHOW"
     },
     "registration": [
         "College ID card is mandatory",
         "This event comes under general registration"
     ],
+    "rules": [],
     "contacts": [
         { "incharge": "Dharahash", "phno": 8148585203 },
         { "incharge": "Vedhaashriyaa", "phno": 7904722562 }
