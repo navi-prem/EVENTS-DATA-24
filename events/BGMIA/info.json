@@ -1,0 +1,28 @@
+{
+    "id": "BGMIA",
+    "title": "Battlegrounds Mobile India",
+    "description": "Navigate the battlegrounds of BGMI, where every pixel holds the weight of victory. Adapt, conquer, and carve your legend in the pulse-pounding chaos of mobile warfare",
+    "details": {
+        "type": "NON-TECHNICAL"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "Respect all the decision made by the College Management.",
+        "Any One player should be present at our college campus from each team (compulsory)",
+        "Minimum 3 Players have to play the match or your team will be disqualified from the tournament.",
+        "Player ID level below 40 will not be allowed for the tournament , will be kicked if joined inside the room.",
+        "All 4 players are required to record their POVs for secure gameplays and for verification",
+        "Players are requested to take screenshot of results of their respective teams after the game for verification purposes.",
+        "Emulators are strictly not allowed.",
+        "Doing Team Up in Game, it is strictly prohibited. If found ,then both Teams will be disqualifed from the tournament.",
+        "Leaking matches ID and password may result in DIRECT PROHIBITION for the whole team.",
+        "No abusive language will be tolerated neither with the management or the hosts  nor with any other contestants."
+    ],
+    "contacts": [
+        { "incharge": "Hari Vignesh", "phno": 6382751821 },
+        { "incharge": "Gayathrie", "phno": 9150472413 }
+    ]
+}

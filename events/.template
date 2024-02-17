@@ -3,7 +3,7 @@
     "title": "BRAND MARKETING",
     "description": "Paper presentation is a two-member competition where each team is required to provide a written representation of your idea in English, about a given theme and present it with a presentation (PowerPoint) in front of the judges.",
     "details": {
-        "type": "TECHNICAL"
+        "type": "NON-TECHNICAL"
     },
     "registration": [
         "College ID is mandatory.",
@@ -39,6 +39,6 @@
     ],
     "contacts": [
         { "incharge": "Jai Sarveshwaran", "phno": 9150527365 },
-        { "incharge": "Gokul Kannan", "phno": 9941269128 }
+        { "incharge": "Gayathrie", "phno": 9150472413 }
     ]
 }

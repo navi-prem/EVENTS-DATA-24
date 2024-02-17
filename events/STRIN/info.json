@@ -1,0 +1,23 @@
+{
+    "id": "STRIN",
+    "title": "STRESS INTERVIEW",
+    "description": "Just like mentally strong people, we must be able to thrive regardless of any added tension. We have to put our stress in perspective, replace negative thoughts with positive ones and be proud of our achievements",
+    "details": {
+        "type": "NON-TECHNICAL"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "Duration: 3 minutes",
+        "This is an individual event and team participation is not allowed. ",
+        "The game ends when the participant shows any sign of anger and irritation.",
+        "Unparliamentary words should not be used.",
+        "Judges' decision will be final."
+    ],
+    "contacts": [
+        { "incharge": "Hari Vignesh", "phno": 6382751821 },
+        { "incharge": "Gayathrie", "phno": 9150472413 }
+    ]
+}

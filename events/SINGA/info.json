@@ -1,0 +1,22 @@
+{
+    "id": "SINGA",
+    "title": "SING ALONG - LOAD THE LYRICS",
+    "description": "Watch as the lyrics vanish whilst you warble. Fill in the missing tunes and fix the broken beat. Will you be able to load the lyrics and launch it forward? Test how rusty your rhythm is, with Load the Lyrics!",
+    "details": {
+        "type": "NON-TECHNICAL"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "Each team must consist of 2 members.",
+        "A point will be reduced if there is a delay in filling the lyrics.",
+        "Multilingual songs will be played.",
+        "Judges' decision will be final."
+    ],
+    "contacts": [
+        { "incharge": "Vedhaashriyaa", "phno": 7904722562 },
+        { "incharge": "Gayathrie", "phno": 9150472413 }
+    ]
+}

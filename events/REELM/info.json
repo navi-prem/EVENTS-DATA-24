@@ -1,0 +1,27 @@
+{
+    "id": "REELM",
+    "title": "REEL MAKING - REEL TO REAL",
+    "description": "Videograph your views on our college and capture clips to project your perspective. Summarize the fervor and magnificence that are rife in our campus!",
+    "details": {
+        "type": "NON-TECHNICAL"
+    },
+    "registration": [
+        "College ID is mandatory.",
+        "The event comes under general registration."
+    ],
+    "rules": [
+        "The video should not exceed 60 seconds.",
+        "The reel must be an original creation.",
+        "Footage that was shot outside the college campus is not permitted.",
+        "Only mobile phones can be used for shooting.",
+        "Voiceover is not allowed, only background music and songs are allowed.",
+        "Submission should be done before the deadline.",
+        "The reels must be recorded in the aspect ratio of 9:16.",
+        "Only one submission per participant is allowed.",
+        "Judges' decision will be final."
+    ],
+    "contacts": [
+        { "incharge": "Amrize", "phno": 8015929273 },
+        { "incharge": "Gayathrie", "phno": 9150472413 }
+    ]
+}
