@@ -14,20 +14,21 @@
     "This is an individual event and team participation is not allowed.",
     "Participants must answer within the given time frame.",
     "Questions are exclusively from movies.",
-    "The Judges’ decisions will be final."
-  ],
-  "round1": [
+    "The Judges’ decisions will be final.",
+    "",
+    "",
+    "Round 1:",
     "Individual participants only.",
     "Participants must answer within the time frame.",
     "Questions are exclusively from kollywood movies.",
-    "The judges’ decision is final."
-  ],
-  "round2": [
+    "The judges’ decision is final.",
+    "",
+    "",
+    "Round 2:",
     "Difficulty level will be increased for the round ",
     "Malpractice should be avoided.",
     "The judges’ decision is final."
   ],
-
   "contacts": [
     { "incharge": "Vedhaashriyaa", "phno": 7904722562 },
     { "incharge": "Gayathrie", "phno": 9150472413 }

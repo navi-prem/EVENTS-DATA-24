@@ -10,15 +10,17 @@
     "This event comes under general registration."
   ],
   "rules": [
-    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Finals)"
-  ],
-  "round1": [
+    "This event has two consecutive rounds: Round 1 (Prelims), Round 2 (Finals)",
+    "",
+    "",
+    "Round 1:",
     "The time limit of the performance is 2 to 4 minutes.",
     "The participant can perform on any topic of their choice in this round.",
     "Participants are not allowed to use abusive language in their performance.",
-    "Controversial and political topics should be avoided."
-  ],
-  "round2": [
+    "Controversial and political topics should be avoided.",
+    "",
+    "",
+    "Round 2:",
     "The time limit for the performance is 5 minutes.",
     "The topic will be given on the spot.",
     "Preparation time of 1 minute will be provided.",

@@ -13,17 +13,19 @@
         "A team must consist of two members.",
         "Participants are requested to register in advance.",
         "No mobiles or other gadgets should be used at the time of coding.",
-        "Event consists of two rounds."
-    ],
-    "first round": [
+        "Event consists of two rounds.",
+        "",
+        "",
+        "First Round:",
         "Only one person is allowed to code in this round.",
         "Other people will be given a quiz focusing on Python and C++.",
         "Based on both scores, the top 30 teams will be selected.",
         "Teams will be ranked and promoted to the next round based on their combined performance in both the coding and quiz.",
         "Any kind of malpractice leads to disqualification.",
-        "Judges' decisions will be final."
-    ],
-    "Final Round": [
+        "Judges' decisions will be final.",
+        "",
+        "",
+        "Final Round:",
         "This round takes place over the course of 1 hour.",
         "Teams are swapped once during the event.",
         "Each team member is allotted 25 minutes of individual coding time.",

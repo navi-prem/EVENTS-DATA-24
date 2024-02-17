@@ -18,25 +18,26 @@
         "The questions will be in the form of multiple choice, true or false, specific answer questions.",
         "Judges' decisions will be final."
     ],
-    "event guidelines": {
-        "rount 1": [
-            "This round will be conducted using traditional pen and paper methods.",
-            "Participants must answer the questions within the given time.",
-            "Questions will be of objective type."
-        ],
-        "round 2": [
-            "15 questions will be asked each of 3 minutes.",
-            "Participants must answer the questions within the given time.",
-            "If the answer is wrong or unable to answer, then automatically then the question will be forwarded to subsequent teams to answer the question within 2 minutes.",
-            "Questions will be of objective type."
-        ],
-        "round 3": [
-            "This round will be held in rapid fire mode.",
-            "8 questions will be asked.",
-            "Every correct answer will be provided with 5 points.",
-            "Negative markings will be given for wrong answers ."
-        ]
-    },
+    "event guidelines": [
+        "Round 1:",
+        "This round will be conducted using traditional pen and paper methods.",
+        "Participants must answer the questions within the given time.",
+        "Questions will be of objective type.",
+        "",
+        "",
+        "Round 2:",
+        "15 questions will be asked each of 3 minutes.",
+        "Participants must answer the questions within the given time.",
+        "If the answer is wrong or unable to answer, then automatically then the question will be forwarded to subsequent teams to answer the question within 2 minutes.",
+        "Questions will be of objective type.",
+        "",
+        "",
+        "Round 3:",
+        "This round will be held in rapid fire mode.",
+        "8 questions will be asked.",
+        "Every correct answer will be provided with 5 points.",
+        "Negative markings will be given for wrong answers ."
+    ],
     "contacts": [
         { "incharge": "Harshavarthan", "phno": 9791333360 },
         { "incharge": "Harini T", "phno": 9344180609 }
