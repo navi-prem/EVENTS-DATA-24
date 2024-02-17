@@ -55,10 +55,10 @@
   "TRENT1": {"name":"TRESURE HUNT - DAY 1","type":"NON-TECHNICAL"},
   "TRENT2": {"name":"TRESURE HUNT - DAY 2","type":"NON-TECHNICAL"},
   "TRENT3": {"name":"TRESURE HUNT - DAY 3","type":"NON-TECHNICAL"},
-  "IPLAC": {"name":"","type":"NON-TECHNICAL"},
-  "RAPBA": {"name":"","type":"NON-TECHNICAL"},
-  "BGMIA": {"name":"","type":"NON-TECHNICAL"},
-  "PHOTO": {"name":"","type":"ONLINE EVENT"},
-  "MEMEC": {"name":"","type":"ONLINE EVENT"},
-  "POETR": {"name":"","type":"ONLINE EVENT"}
+  "IPLAC": {"name":"IPL AUCTION","type":"NON-TECHNICAL"},
+  "RAPBA": {"name":"RAP BATTLE - RAP-A-THON","type":"NON-TECHNICAL"},
+  "BGMIA": {"name":"BATTLEGROUNDS MOBILE INDIA","type":"NON-TECHNICAL"},
+  "PHOTO": {"name":"PHOTOGRAPHY - PICTURE PERFECT (ONLINE)","type":"ONLINE EVENT"},
+  "MEMEC": {"name":"MEME CRAFT (ONLINE)","type":"ONLINE EVENT"},
+  "POETR": {"name":"POETRY (ONLINE)","type":"ONLINE EVENT}"
 }
