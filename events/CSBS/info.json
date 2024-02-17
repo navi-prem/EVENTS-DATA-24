@@ -1,0 +1,13 @@
+{
+  "id": "CSBS",
+  "title": "CYBERSECURITY",
+  "description": "In today's interconnected digital world, the need for robust cybersecurity measures has never been greater. Whether you're an individual seeking to protect your personal information or a business professional responsible for safeguarding sensitive data, understanding cybersecurity fundamentals is paramount. Join us for an engaging and informative workshop designed to equip participants with the knowledge and skills necessary to navigate the cyber landscape securely.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "R.Monikasree", "phno": 8508895597 },
+    { "incharge": "Harini T", "phno": 9344180609 }
+  ]
+}

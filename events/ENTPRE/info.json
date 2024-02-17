@@ -1,0 +1,13 @@
+{
+  "id": "ENTPRE",
+  "title": "ENTREPRENEURSHIP",
+  "description": "thinking is not just encouraged but celebrated. Through hands-on activities, interactive sessions, and real-world case studies, we aim to ignite the spark of ingenuity within you, empowering you to think outside conventional boundaries and explore the uncharted territories of entrepreneurial possibility. Join us in this Entrepreneurship Workshop, where the ordinary transforms into the extraordinary, and where your entrepreneurial journey takes flight. Together, let's unlock the doors to a future where innovation knows no bounds, creativity is boundless, and business success is not just a destination but a continuous and exhilarating journey.",
+  "details": {
+    "type": "WORKSHOP"
+  },
+  "registeration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
+  "contacts": [
+    { "incharge": "Gokul Kannan P ", "phno": 9941269128 },
+    { "incharge": "A.Merwin Blessy", "phno": 7603805669 }
+  ]
+}
