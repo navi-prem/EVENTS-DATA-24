@@ -5,6 +5,7 @@
   "details": {
     "type": "WORKSHOP"
   },
+  "rules": [],
   "registration": ["College ID is mandatory.", "Registration fee is Rs. 350."],
   "contacts": [
     { "incharge": "Harshavarthan V", "phno": 9791333360 },
