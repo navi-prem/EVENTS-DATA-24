@@ -1,30 +1,30 @@
-
 {
-    "id": "MEMEC",
-    "title": "MEME CRAFT",
-    "description": "Create a meme that makes people stop scrolling and start sharing! Make magical memes that make people roll in laughter. Will your meme be the next viral hit?",
-    "details": {
-        "type": "ONLINE EVENT"
-    },
-    "registration": [
-        "College ID is mandatory",
-        "Round 1 comes under free registration.",
-        "Round 2 comes under general registration."
+  "id": "MEMEC",
+  "title": "MEME CRAFT",
+  "description": "Create a meme that makes people stop scrolling and start sharing! Make magical memes that make people roll in laughter. Will your meme be the next viral hit?",
+  "details": {
+    "type": "ONLINE EVENT"
+  },
+  "glink": "https://forms.gle/aSQRTu5tuTs6yxC96",
+  "registration": [
+    "College ID is mandatory",
+    "Round 1 comes under free registration.",
+    "Round 2 comes under general registration."
+  ],
+  "rules": {
+    "round 1": [
+      "The memes submitted must be an original work of the individual.",
+      "The first round will be an online evaluation round where the participants will have to upload their memes at the time of registration.",
+      "The memes should be submitted on or before the 26th February, 2024"
     ],
-    "rules": {
-        "round 1": [
-            "The memes submitted must be an original work of the individual.",
-            "The first round will be an online evaluation round where the participants will have to upload their memes at the time of registration.",
-            "The memes should be submitted on or before the 26th February, 2024"
-        ],
-        "round 2": [
-            "Final round will be held offline and participants have to create a meme on the spot.",
-            "Themes and templates for the final round will be provided by the organizers.",
-            "Judges' decision will be final."
-        ]
-    },
-    "contacts": [
-        { "incharge": "Ruthresh", "phno": 9445933614 },
-        { "incharge": "Deva Dharshini", "phno": 7708117930 }
+    "round 2": [
+      "Final round will be held offline and participants have to create a meme on the spot.",
+      "Themes and templates for the final round will be provided by the organizers.",
+      "Judges' decision will be final."
     ]
+  },
+  "contacts": [
+    { "incharge": "Ruthresh", "phno": 9445933614 },
+    { "incharge": "Deva Dharshini", "phno": 7708117930 }
+  ]
 }
