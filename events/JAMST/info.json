@@ -1,0 +1,24 @@
+{
+  "id": "JAMST",
+  "title": "JAM - SNAP TALK",
+  "description": "You have one minute to speak your piece, and everything will be determined within seconds. Energize yourselves, speak up without hesitation, and win with your words and tenacity.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "Registration is to be done online and this event comes under general registration."
+  ],
+  "rules": [
+    "Usage of offensive and vulgar words should be avoided.",
+    "Usage of filler words should be avoided.",
+    "The topic will be given on spot.",
+    "Repetitive words or ideas are not encouraged.",
+    "Participants must adhere to the general rules that will be set by the judges.",
+    "Judges' decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Jeya Shri", "phno": 9787234949 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

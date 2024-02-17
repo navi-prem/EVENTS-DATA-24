@@ -1,0 +1,34 @@
+{
+  "id": "TKTVE",
+  "title": "TK TV",
+  "description": "Do you have a dream of appearing on TV? Ever wished you could be the star of your own programme? Are your acting and marketing abilities up to par? You have a platform to fulfill your fantasies and steal the show, thanks to TK TV!",
+  "details": {
+    "type": "TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "The event comes under general registration."
+  ],
+  "rules": [
+    "This event comprises two rounds- Prelims (Channel Surfing) and Finals (Adzap).",
+    "Usage of mobiles and other electronic gadgets is strictly prohibited.",
+    "Vulgarity in any form will lead to elimination.",
+    "Expressing any sort of opinion on politics, religion and other sensitive topics is not allowed.",
+    "Judges’ decisions will be final."
+  ],
+  "prelims": [
+    "Participants will have to switch channels upon the judges’ command.",
+    "The specific channel to be re-enacted will be mentioned by the judges, on the spot.",
+    "Only Tamil and English-language channels will be a part of this event."
+  ],
+  "finals": [
+    "The topic will be given on spot.",
+    "Time allotted for preparation is one minute.",
+    "Participants must perform for at least 2 minutes."
+  ],
+
+  "contacts": [
+    { "incharge": "Sanjana", "phno": 7358432833 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

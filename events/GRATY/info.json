@@ -1,0 +1,42 @@
+{
+  "id": "GRATY",
+  "title": "GRAPHITE–TY",
+  "description": "Where every stroke tells a story, unlock the creativity within and unleash your vision. Sketch your way to glory ‘cause the canvas is calling for a creative masterpiece.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "theme": "OPEN THEME",
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Speed Round), Round 2 (Blindfold Challenge), Round 3 (Induvidual Art)",
+    "Duration is 90 minutes.",
+    "No reference are allowed, organizers will be providing the reference for the 1st and 2nd rounds",
+    "Only graphite pencils and charcoals are allowed as drawing mediums.",
+    "Participants should bring their own materials.",
+    "Drawing sheets will be provided by the event organizers.",
+    "Judges decision will be final."
+  ],
+  "round1": [
+    "Create a dynamic graffiti piece within a limited time frame of 10 minutes.",
+    "Participants start with a blank canvas and must finish within the specified time.",
+    "Judging Criteria will be based on Creativity, effective use of time, and overall visual impact."
+  ],
+  "round2": [
+    "Create a visually impactful graffiti piece whileblindfolded.reference will be displayed only for 1 min.",
+    "Participants wear blindfolds for a specified duration of 5 mins, then can remove them to fine-tune their artwork for the next 10 mins. No eraser should be used.",
+    "Judging criteria will be based on adaptability, creativity, and overall impact of the blindfold segment."
+  ],
+  "round3": [
+    "Create an individual graffiti piece based on participants' own artistic vision. Time limit: 1 hour",
+    "Participants have the freedom to express their creativity without specific constraints.",
+    "Judging criteria will be based on originality, creativity, and overall artistic quality."
+  ],
+
+  "contacts": [
+    { "incharge": "Poojitha", "phno": 7780663324 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

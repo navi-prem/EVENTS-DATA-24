@@ -1,0 +1,25 @@
+{
+  "id": "CYPHR",
+  "title": "CYPHER",
+  "description": "Calling out all high-octane hip-hop dancers! Once you step in, there's no going back. Diss your opponent, not with your words but with your dance. Steal the spotlight with your swings and rap steps.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Qualifiers), Round 3 (Semi-Finals) and Round 4 (Finals)",
+    "Maximum time limit of 50 seconds will be given for each participant.",
+    "Any form of vulgarity will lead to disqualification.",
+    "The battle will be freestyle and on the spot.",
+    "Practiced choreography is strictly prohibited.",
+    "The finals will be judged based on performance scores from the three previous rounds",
+    "The Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Ganapathi A", "phno": 9344267027 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "SODAN",
+  "title": "SOLO DANCE - DANCE TILL DAWN",
+  "description": "Do you have what it takes to put on a one-man show? On the dance floor, you are in control of the rhythm. Set yourself loose and let the music move you. Swing and sway to steal everyone's hearts!.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "Participants can dance to any song of their choice.",
+    "The time limit will be a maximum of 3 minutes. ",
+    "Music can be chosen by the participant .",
+    "Music tracks must be handed over to the event organizers 30 minutes prior to the event.",
+    "Participants should bring their own props. The event coordinator must be notified about all the props used.",
+    "The lighting of matchsticks, candles, cigarettes, or any other derogatory acts are strictly prohibited.",
+    "Any obscene or controversial music will not be permitted.",
+    "The Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Yuvaraj Kumar S", "phno": 6381389306 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

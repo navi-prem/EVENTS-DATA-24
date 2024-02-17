@@ -1,0 +1,26 @@
+{
+  "id": "DBATE",
+  "title": "DEBATE - IT’S DEBATABLE",
+  "description": "Raise your voice and defend your stance. Rhetoric at its finest, where words become weapons. Swoop the field and make your voice heard.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "Each team can have a maximum of 3 members.",
+    "English should be the only medium of communication.",
+    "Topics will be provided on the spot.",
+    "Participants will be given 3 minutes to prepare, on the topic specified.",
+    "Usage of abusive words is not permitted.",
+    "Participants are not allowed to cross-talk.",
+    "Offending your opponent personally must be strictly avoided.",
+    "Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Ramya", "phno": 7418897312 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

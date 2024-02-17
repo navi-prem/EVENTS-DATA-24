@@ -1,0 +1,23 @@
+{
+  "id": "WWEEB",
+  "title": "WORLD OF WEEBS (ANIME QUIZ)",
+  "description": "Prove your anime prowess in this epic anime quiz! From Naruto's hidden jutsus to the heroic quirks of My Hero Academia, cover everything you need to prove yourself as a true anime fan. Gather your nakama, channel your inner anime protagonist, and let's see who will emerge as the victor in the World of Weebs! Dattebayo!",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "theme": "ANIME",
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "Each team can have a maximum of 2 members.",
+    "For buzzers, participants are asked to join in https://buzzin.live/ and the host screen will be projected on the screen.",
+    "By the buzzer, If the first team answers wrong, the chance will be given to the successive teams.",
+    "The judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Sai Aditya", "phno": 6374790021 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

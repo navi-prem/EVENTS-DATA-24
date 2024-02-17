@@ -1,0 +1,23 @@
+{
+  "id": "KUPDM",
+  "title": "KURUM PADAM",
+  "description": "Show off your unique ideas and perspectives through the power of movies. Craft a captivating short film that will enthrall the audience and leave them in awe of your creative artistry.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "Participants should send their short films for submission on or before February 27th, 2024",
+    "Selected short films will be screened on the day of the event.",
+    "The duration of the short films can be at a maximum of 20 minutes.",
+    "Controversial, sensitive and abusive content is not allowed.",
+    "Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Vedhaashriyaa", "phno": 7904722562 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

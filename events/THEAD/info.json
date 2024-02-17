@@ -1,0 +1,24 @@
+{
+  "id": "THEAD",
+  "title": "TALKING HEAD",
+  "description": "Do you like to document day-to-day activities? Do you think you can handle a massive event like Takshashila and document the happenings of this hustling event?",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "Participants must write their reports only in English.",
+    "Reports must be submitted through google forms.",
+    "Only individual participation is allowed.",
+    "Participants must be present the reports in an appropriate format.",
+    "A participant can write reports on any number of events.",
+    "Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Jeya Shri", "phno": 9787234949 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MIMEM",
+  "title": "MIME - IDHU ACTION MADAM",
+  "description": "You have one minute to speak your piece, and everything will be determined within seconds. Energize yourselves, speak up without hesitation, and win with your words and tenacity.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "theme": "OPEN THEME",
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration.",
+    "The team-head should register for the event, on behalf of the team."
+  ],
+  "rules": [
+    "Duration: 10-15 minutes per team.",
+    "Each team can have 6 to 10 members.",
+    "Additional time will not be provided and the performance should not exceed the time limit.",
+    "Audio must be handed over to the event organizers prior to the event.",
+    "Vulgar acts, if involved will lead to elimination.",
+    "Acts centered on controversial or sensitive issues are prohibited.",
+    "Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Tharun", "phno": 8807088905 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

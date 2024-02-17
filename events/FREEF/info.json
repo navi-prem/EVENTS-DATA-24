@@ -1,0 +1,27 @@
+{
+  "id": "FREEF",
+  "title": "FREE FIRE",
+  "description": "Is gaming your domain? Amateur or professional gaming sees no discrimination, only skills, strategy and rules. So gear up for the battle, prepare and clash in the ultimate showdown.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration.",
+    "The team-head should register for the event, on behalf of the team."
+  ],
+  "rules": [
+    "The game must be played only using a mobile phone.",
+    "Emulators and rooted devices should not be used.",
+    "During an ongoing tournament players are not allowed to change their in-game name.",
+    "Clan tags before in-game names are allowed to be changed.",
+    "Players should have all the maps downloaded prior to the event.",
+    "No refund will be provided if the player is kicked out of the server due to glitches or any other cause.",
+    "Players should not have any obscene or offensive in-game names.",
+    "Matches will be supervised separately to avoid malpractices."
+  ],
+  "contacts": [
+    { "incharge": "Tharun", "phno": 8807088905 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

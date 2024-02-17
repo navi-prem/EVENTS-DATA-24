@@ -1,0 +1,34 @@
+{
+  "id": "SHIPW",
+  "title": "SHIPWRECK - A PIRATE’S DILEMMA",
+  "description": "It is better to meet danger than to wait for it. He who is on a lee shore and foresees a hurricane stands out to sea and encounters a storm to avoid a shipwreck.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Finals)"
+  ],
+  "round1": [
+    "Time limit is 3 minutes per person.",
+    "The top 6-8 members will be qualified for the finals.",
+    "The participants should compete to increase their chance of survival.",
+    "Participants are not allowed to talk about political facts in the event.",
+    "Participants are not allowed to use abusive or offensive language.",
+    "Judges’ decisions will be final."
+  ],
+  "round2": [
+    "Time limit is 3 minutes per person.",
+    "The participants can betray each other to gain an advantage.",
+    "Controversial and political topics should be avoided.",
+    "Participants are not allowed to use abusive or offensive language.",
+    "Judges’ decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Tharun", "phno": 8807088905 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

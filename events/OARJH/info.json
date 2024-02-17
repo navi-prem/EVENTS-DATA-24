@@ -1,0 +1,31 @@
+{
+  "id": "OARJH",
+  "title": "ON-AIR - RJ HUNT",
+  "description": "Radio affects most intimately, person to person, offering a world of unspoken communication between the writer- speaker and listener. Step into the spotlight, grab the microphone, take a moment, and be a part of the legacy.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Finals)"
+  ],
+  "round1": [
+    "The time limit of the performance is 2 to 4 minutes.",
+    "The participant can perform on any topic of their choice in this round.",
+    "Participants are not allowed to use abusive language in their performance.",
+    "Controversial and political topics should be avoided."
+  ],
+  "round2": [
+    "The time limit for the performance is 5 minutes.",
+    "The topic will be given on the spot.",
+    "Preparation time of 1 minute will be provided.",
+    "The judge's decisions will be final."
+  ],
+  "contacts": [
+    { "incharge": "Tharun", "phno": 7418897312 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "SOSNG",
+  "title": "SOLO SINGING - ONE VOICE MAGIC",
+  "description": "Music is felt rather than heard. With your beguiling voice, you can touch people's hearts and enlighten their souls. After all, music is much more than just a tune.",
+  "details": {
+    "type": "NON-TECHNICAL"
+  },
+  "registration": [
+    "College ID is mandatory.",
+    "This event comes under general registration."
+  ],
+  "rules": [
+    "This event has four consecutive rounds: Round 1 (Prelims), Round 2 (Finals)",
+    "Usage of metronomes (Device used by musicians that marks time at a particular rate by producing a regular beat) is not permitted.",
+    "The song to be performed can be of any language.",
+    "This event consists of two rounds - Prelims and Finals."
+  ],
+  "round1": [
+    "The maximum time for performance is 2 minutes.",
+    "Karaoke performances are not allowed.",
+    "Instrumental accompaniments are not allowed for this round.",
+    "Judges’ decisions will be final."
+  ],
+  "round2": [
+    "The maximum time for performance is 3 minutes.",
+    "Karaoke performances are not allowed.",
+    "Instrumental accompaniments are permitted.",
+    "Judges’ decisions will be final"
+  ],
+  "contacts": [
+    { "incharge": "Vedhaashriyaa", "phno": 7904722562 },
+    { "incharge": "Gayathrie", "phno": 9150472413 }
+  ]
+}
