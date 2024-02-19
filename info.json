@@ -1,64 +1,309 @@
 {
-  "CHNIG": {"name":"CHOREO NIGHT","type":"PRO SHOW"},
-  "KLIVE": {"name":"KARTHIK LIVE","type":"PRO SHOW"},
-  "DJNIG": {"name":"DJ NIGHT","type":"PRO SHOW"},
-  "CIDA": {"name":"CIDA - CIT ICONS OF DIGITAL AWARDS","type":"PRO SHOW"},
-  "RADWH": {"name":"RADIO WHEELS","type":"TECHNICAL"},
-  "DROND": {"name":"DRONE DASH","type":"TECHNICAL"},
-  "TTRAC": {"name":"TRAIL TRACKS","type":"TECHNICAL"},
-  "TECHQ": {"name":"TECH QUEST","type":"TECHNICAL"},
-  "H2ORK": {"name":"H2O ROCKETRY","type":"TECHNICAL"},
-  "PAPRE": {"name":"PAPER PRESENTATION","type":"TECHNICAL"},
-  "BINSY": {"name":"BINARY SYMPHONY","type":"TECHNICAL"},
-  "DESON": {"name":"DESIGNER'S ONBOARD","type":"TECHNICAL"},
-  "CONXS": {"name":"CONNECTIONS","type":"TECHNICAL"},
-  "BRAMK": {"name":"BRAND MARKETTING","type":"TECHNICAL"},
-  "AERMOD": {"name":"AEROMODELLING","type":"WORKSHOP"},
-  "DROTEC": {"name":"DRONE TECHNOLOGY","type":"WORKSHOP"},
-  "FSWEB": {"name":"FULL STACK WEB DEVELOPMENT","type":"WORKSHOP"},
-  "IOTES": {"name":"IOT AND EMBEDDED SYSTEMS","type":"WORKSHOP"},
-  "CSBS": {"name":"CYBERSECURITY","type":"WORKSHOP"},
-  "ENTPRE": {"name":"ENTREPRENUERSHIP","type":"WORKSHOP"},
-  "OSSO": {"name":"AN OPEN SOURCE ODYSSEY","type":"WORKSHOP"},
-  "NETLIN": {"name":"NETWORKING WITH LINUX","type":"WORKSHOP"},
-  "HUGFAC": {"name":"HUGGING FACES","type":"WORKSHOP"},
-  "SCRIPT": {"name":"SCRIPT WRITING","type":"WORKSHOP"},
-  "CINEPHY": {"name":"CINEMATOGRAPHY","type":"WORKSHOP"},
-  "SODAN": {"name":"SOLO DANCE - DANCE TILL DAWN","type":"NON-TECHNICAL"},
-  "DUDAN": {"name":"DUAL DANCE - DYNAMIC DUO","type":"NON-TECHNICAL"},
-  "SOSNG": {"name":"SOLO SINGING - ONE VOICE MAGIC","type":"NON-TECHNICAL"},
-  "GRSNG": {"name":"GROUP SINGING - ACAPELLA","type":"NON-TECHNICAL"},
-  "JAMST": {"name":"JAM - SNAP TALK","type":"NON-TECHNICAL"},
-  "TKTVE": {"name":"TK TV","type":"NON-TECHNICAL"},
-  "MIMEM": {"name":"MIME - IDHU ACTION MADAM","type":"NON-TECHNICAL"},
-  "BTYET1": {"name":"BEHIND THE YELLOW TAPES - DAY 1","type":"NON-TECHNICAL"},
-  "BTYET2": {"name":"BEHIND THE YELLOW TAPES - DAY 2","type":"NON-TECHNICAL"},
-  "BTYET3": {"name":"BEHIND THE YELLOW TAPES - DAY 3","type":"NON-TECHNICAL"},
-  "FREEF": {"name":"FREE FIRE","type":"NON-TECHNICAL"},
-  "WWEEB": {"name":"WORLD OF WEEBS (ANIME QUIZ)","type":"NON-TECHNICAL"},
-  "CYPHR": {"name":"CYPHER","type":"NON-TECHNICAL"},
-  "FSPOT1": {"name":"FRAME-SPOT - DAY 1","type":"NON-TECHNICAL"},
-  "FSPOT2": {"name":"FRAME-SPOT - DAY 2","type":"NON-TECHNICAL"},
-  "FSPOT3": {"name":"FRAME-SPOT - DAY 3","type":"NON-TECHNICAL"},
-  "FZONE1": {"name":"FUN ZONE - DAY 1","type":"NON-TECHNICAL"},
-  "FZONE2": {"name":"FUN ZONE - DAY 2","type":"NON-TECHNICAL"},
-  "FZONE3": {"name":"FUN ZONE - DAY 3","type":"NON-TECHNICAL"},
-  "GRATY": {"name":"GRAPHITE-TY","type":"NON-TECHNICAL"},
-  "DBATE": {"name":"DEBATE - IT'S DEBATABLE","type":"NON-TECHNICAL"},
-  "OARJH": {"name":"ON-AIR - RJ HUNT","type":"NON-TECHNICAL"},
-  "SHIPW": {"name":"SHIPWRECK - A PIRATE'S DILEMMA","type":"NON-TECHNICAL"},
-  "THEAD": {"name":"TALKING HEAD","type":"NON-TECHNICAL"},
-  "KUPDM": {"name":"KURUM PADAM","type":"NON-TECHNICAL"},
-  "REELM": {"name":"REEL MAKING - REEL TO REAL","type":"NON-TECHNICAL"},
-  "SINGA": {"name":"SING ALONG - LOAD THE LYRICS","type":"NON-TECHNICAL"},
-  "STRIN": {"name":"STRESS INTERVIEW","type":"NON-TECHNICAL"},
-  "TRENT1": {"name":"TRESURE HUNT - DAY 1","type":"NON-TECHNICAL"},
-  "TRENT2": {"name":"TRESURE HUNT - DAY 2","type":"NON-TECHNICAL"},
-  "TRENT3": {"name":"TRESURE HUNT - DAY 3","type":"NON-TECHNICAL"},
-  "IPLAC": {"name":"IPL AUCTION","type":"NON-TECHNICAL"},
-  "RAPBA": {"name":"RAP BATTLE - RAP-A-THON","type":"NON-TECHNICAL"},
-  "BGMIA": {"name":"BATTLEGROUNDS MOBILE INDIA","type":"NON-TECHNICAL"},
-  "PHOTO": {"name":"PHOTOGRAPHY - PICTURE PERFECT (ONLINE)","type":"ONLINE EVENT"},
-  "MEMEC": {"name":"MEME CRAFT (ONLINE)","type":"ONLINE EVENT"},
-  "POETR": {"name":"POETRY (ONLINE)","type":"ONLINE EVENT"}
+  "CHNIG": {
+    "name": "CHOREO NIGHT",
+    "type": "PRO SHOW",
+    "date": "29/02/2024"
+  },
+  "KLIVE": {
+    "name": "KARTHIK LIVE",
+    "type": "PRO SHOW",
+    "date": "01/03/2024"
+  },
+  "DJNIG": {
+    "name": "DJ NIGHT",
+    "type": "PRO SHOW",
+    "date": "02/03/2024"
+  },
+  "CIDA": {
+    "name": "CIDA - CIT ICONS OF DIGITAL AWARDS",
+    "type": "PRO SHOW",
+    "date": "29/02/2024"
+  },
+  "RADWH": {
+    "name": "RADIO WHEELS",
+    "type": "TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "DROND": {
+    "name": "DRONE DASH",
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "TTRAC": {
+    "name": "TRAIL TRACKS",
+    "type": "TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "TECHQ": {
+    "name": "TECH QUEST",
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "H2ORK": {
+    "name": "H2O ROCKETRY",
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "PAPRE": {
+    "name": "PAPER PRESENTATION",
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "BINSY": {
+    "name": "BINARY SYMPHONY",
+    "type": "TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "DESON": {
+    "name": "DESIGNER'S ONBOARD",
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "CONXS": {
+    "name": "CONNECTIONS",
+    "type": "TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "BRAMK": {
+    "name": "BRAND MARKETTING",
+    "type": "TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "AERMOD": {
+    "name": "AEROMODELLING",
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
+  },
+  "DROTEC": {
+    "name": "DRONE TECHNOLOGY",
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
+  },
+  "FSWEB": {
+    "name": "FULL STACK WEB DEVELOPMENT",
+    "type": "WORKSHOP",
+    "date": "02/03/2024"
+  },
+  "IOTES": {
+    "name": "IOT AND EMBEDDED SYSTEMS",
+    "type": "WORKSHOP",
+    "date": "01/03/2024"
+  },
+  "CSBS": {
+    "name": "CYBERSECURITY",
+    "type": "WORKSHOP",
+    "date": "02/03/2024"
+  },
+  "ENTPRE": {
+    "name": "ENTREPRENUERSHIP",
+    "type": "WORKSHOP",
+    "date": "01/03/2024"
+  },
+  "OSSO": {
+    "name": "AN OPEN SOURCE ODYSSEY",
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
+  },
+  "NETLIN": {
+    "name": "NETWORKING WITH LINUX",
+    "type": "WORKSHOP",
+    "date": "01/03/2024"
+  },
+  "HUGFAC": {
+    "name": "HUGGING FACES",
+    "type": "WORKSHOP",
+    "date": "02/03/2024"
+  },
+  "SCRIPT": {
+    "name": "SCRIPT WRITING",
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
+  },
+  "CINEPHY": {
+    "name": "CINEMATOGRAPHY",
+    "type": "WORKSHOP",
+    "date": "29/02/2024"
+  },
+  "SODAN": {
+    "name": "SOLO DANCE - DANCE TILL DAWN",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "DUDAN": {
+    "name": "DUAL DANCE - DYNAMIC DUO",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "SOSNG": {
+    "name": "SOLO SINGING - ONE VOICE MAGIC",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "GRSNG": {
+    "name": "GROUP SINGING - ACAPELLA",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "JAMST": {
+    "name": "JAM - SNAP TALK",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "TKTVE": {
+    "name": "TK TV",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "MIMEM": {
+    "name": "MIME - IDHU ACTION MADAM",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "BTYET1": {
+    "name": "BEHIND THE YELLOW TAPES - DAY 1",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "BTYET2": {
+    "name": "BEHIND THE YELLOW TAPES - DAY 2",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "BTYET3": {
+    "name": "BEHIND THE YELLOW TAPES - DAY 3",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "FREEF": {
+    "name": "FREE FIRE",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "WWEEB": {
+    "name": "WORLD OF WEEBS (ANIME QUIZ)",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "CYPHR": {
+    "name": "CYPHER",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "FSPOT1": {
+    "name": "FRAME-SPOT - DAY 1",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "FSPOT2": {
+    "name": "FRAME-SPOT - DAY 2",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "FSPOT3": {
+    "name": "FRAME-SPOT - DAY 3",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "FZONE1": {
+    "name": "FUN ZONE - DAY 1",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "FZONE2": {
+    "name": "FUN ZONE - DAY 2",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "FZONE3": {
+    "name": "FUN ZONE - DAY 3",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "GRATY": {
+    "name": "GRAPHITE-TY",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "DBATE": {
+    "name": "DEBATE - IT'S DEBATABLE",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "OARJH": {
+    "name": "ON-AIR - RJ HUNT",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "SHIPW": {
+    "name": "SHIPWRECK - A PIRATE'S DILEMMA",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "THEAD": {
+    "name": "TALKING HEAD",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "KUPDM": {
+    "name": "KURUM PADAM",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "REELM": {
+    "name": "REEL MAKING - REEL TO REAL",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "SINGA": {
+    "name": "SING ALONG - LOAD THE LYRICS",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "STRIN": {
+    "name": "STRESS INTERVIEW",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "TRENT1": {
+    "name": "TRESURE HUNT - DAY 1",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "TRENT2": {
+    "name": "TRESURE HUNT - DAY 2",
+    "type": "NON-TECHNICAL",
+    "date": "01/03/2024"
+  },
+  "TRENT3": {
+    "name": "TRESURE HUNT - DAY 3",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "IPLAC": {
+    "name": "IPL AUCTION",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "RAPBA": {
+    "name": "RAP BATTLE - RAP-A-THON",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
+  },
+  "BGMIA": {
+    "name": "BATTLEGROUNDS MOBILE INDIA",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "PHOTO": {
+    "name": "PHOTOGRAPHY - PICTURE PERFECT (ONLINE)",
+    "type": "ONLINE EVENT"
+  },
+  "MEMEC": {
+    "name": "MEME CRAFT (ONLINE)",
+    "type": "ONLINE EVENT"
+  },
+  "POETR": {
+    "name": "POETRY (ONLINE)",
+    "type": "ONLINE EVENT"
+  }
 }
