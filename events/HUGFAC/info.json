@@ -1,6 +1,6 @@
 {
   "id": "HUGFAC",
-  "title": "HUGGING FACES (AI-MODEL)",
+  "title": "AI & DS WITH HUGGING FACE",
   "description": "This comprehensive workshop is designed to equip participants with practical skills in AI and Data Science using essential libraries. Attendees will learn to harness pandas, numpy, and Matplotlib for data analysis and visualization, while exploring Hugging Face's AI models. Open-source insights will be shared to foster a collaborative learning environment.",
   "details": {
     "type": "WORKSHOP",
