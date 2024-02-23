@@ -3,10 +3,11 @@
   "title": "KURUM PADAM",
   "description": "Show off your unique ideas and perspectives through the power of movies. Craft a captivating short film that will enthrall the audience and leave them in awe of your creative artistry.",
   "details": {
-    "type": "NON-TECHNICAL",
+    "type": "ONLINE EVENT",
     "date": "02/03/2024"
   },
   "day": "DAY3",
+  "glink": "https://forms.gle/v6UAy6oMzRerLgS69",
   "category": "GEN",
   "registration": [
     "College ID is mandatory.",
