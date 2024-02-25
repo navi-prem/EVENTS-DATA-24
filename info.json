@@ -310,5 +310,11 @@
   "POETR": {
     "name": "POETRY (ONLINE)",
     "type": "ONLINE EVENT"
-  }
+  },
+  "At": {
+    "name": "At",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
+  },
+  "date": "29/02/2024"
 }
