@@ -340,5 +340,10 @@
     "name": "Svsbd",
     "type": "NON-TECHNICAL",
     "date": "29/02/2024"
+  },
+  "VADA": {
+    "name": "Vada",
+    "type": "WORKSHOP",
+    "date": "01/03/2024"
   }
 }
