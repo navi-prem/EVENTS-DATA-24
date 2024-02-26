@@ -1,0 +1,23 @@
+{
+  "id": "Ddlj",
+  "title": "Ddljjgsjs",
+  "description": "Fwuw",
+  "details": {
+    "type": "WORKSHOP",
+    "date": "DAY2",
+    "time": [
+      10,
+      10
+    ]
+  },
+  "prizes": [],
+  "contacts": [
+    {
+      "incharge": "Naveen",
+      "phno": "333333"
+    }
+  ],
+  "glink": "",
+  "day": "DAY2",
+  "category": "WK"
+}
