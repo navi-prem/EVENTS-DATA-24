@@ -1,0 +1,21 @@
+{
+  "id": "VADA",
+  "title": "Vada",
+  "description": "Vada",
+  "rules": [],
+  "details": {
+    "type": "WORKSHOP",
+    "date": "DAY2",
+    "time": [
+      10,
+      10
+    ]
+  },
+  "prizes": [],
+  "contacts": [],
+  "guidelines": [],
+  "registration": [],
+  "glink": "",
+  "day": "DAY2",
+  "category": "WK"
+}
